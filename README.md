@@ -17,7 +17,7 @@ I'm a **Computer Science student** with a deep interest in **Python**, **Artific
 - Open-source projects where I can contribute my Python skills.
 
 ### 📫 How to Reach Me:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadanasyaseen) or reach out via email at `muhuammad.anas.yaseen.s608@gmail.com`.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mr-anas/) or reach out via email at `muhuammad.anas.yaseen.s608@gmail.com`.
 
 ### ⚡ Fun Fact:
 I approach every project with a combination of **dedication**, **reliability**, and **attention to detail**. I believe that coding is an art form, and I’m excited to work on projects that make a difference.
