@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/mr-anas608/"><img src="assets/links/linkedin.svg" alt="LinkedIn" height="40" /></a>
   <a href="https://www.upwork.com/freelancers/~0126ad63d4dc77d5fa"><img src="assets/links/upwork.svg" alt="Upwork" height="40" /></a>
   <a href="https://www.fiverr.com/mranasexpertise"><img src="assets/links/fiverr.svg" alt="Fiverr" height="40" /></a>
+  <a href="https://contra.com/mranasexpertise"><img src="assets/links/contra.svg" alt="Contra" height="40" /></a>
 </p>
 
 If your team spends hours on the same computer tasks every week, I can probably automate them: copying data between systems, filling the same forms, downloading reports one by one, researching leads, checking websites for changes.
@@ -73,4 +74,4 @@ Most client code is private, so these link to the full case studies on [mranas.d
 
 Tell me about the task and the tools you use today. I'll tell you honestly what can be automated and what it will take, and I only take on work I'm sure I can deliver.
 
-**[anas@mranas.dev](mailto:anas@mranas.dev)** · [mranas.dev](https://mranas.dev) · [Upwork](https://www.upwork.com/freelancers/~0126ad63d4dc77d5fa) · [Fiverr](https://www.fiverr.com/mranasexpertise)
+**[anas@mranas.dev](mailto:anas@mranas.dev)** · [mranas.dev](https://mranas.dev) · [Upwork](https://www.upwork.com/freelancers/~0126ad63d4dc77d5fa) · [Fiverr](https://www.fiverr.com/mranasexpertise) · [Contra](https://contra.com/mranasexpertise)
