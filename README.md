@@ -12,7 +12,7 @@ If your team spends hours on the same computer tasks every week, I can probably 
 
 I start with the fastest option that works. If your apps can already connect, an **n8n, Make or Zapier** workflow keeps the data moving between them. When those tools hit their limits, like a website with no API, a login or bot protection in the way, I build a **custom Python tool** for that exact problem, with a simple dashboard if your team needs one. **AI** goes in where a task needs judgement.
 
-**50+ projects delivered** · **5.0 on Fiverr (Level 2)** · **100% Job Success on Upwork** · clients in the US, Europe and the Middle East
+**50+ projects delivered** · **5.0 on Fiverr (Level 2)** · **Top Rated on Upwork (100% Job Success)** · clients in the US, Europe and the Middle East
 
 ## What I automate
 
